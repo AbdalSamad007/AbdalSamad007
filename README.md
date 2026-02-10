@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi everyone, I’m Abd-Al-Samad 👋
 
-<!--
-**AbdalSamad007/AbdalSamad007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Junior Support Engineer at Con Ed with a strong interest in:
 
-Here are some ideas to get you started:
+* Cybersecurity
+* Data Analysis
+* App Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building:
+
+* **WeeklyShop** – a family shopping app that auto-resets every week
+
+## Tech Stack
+
+* Python
+* Java
+* C++
+* SQL
+* Git & GitHub
+* Swift (currently learning)
+
+## Featured Projects
+
+* WeeklyShop (iOS App)
+* Cybersecurity Portfolio
+* Data Analysis Projects
+
+## Career Goals
+
+* Grow into a cybersecurity or data-focused engineering role
+* Build production-ready applications
+* Contribute to meaningful, real-world tech projects
+* Expand on my technical knowledge through online, recognised certifications
