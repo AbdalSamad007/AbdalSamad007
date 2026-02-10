@@ -1,6 +1,6 @@
 # Hi, I’m Abd-Al-Samad 👋
 
-A Junior Support Engineer at Con Ed with a strong interest in:
+A Junior Support Engineer with a strong interest in:
 
 * Cybersecurity
 * Data Analysis
