@@ -19,9 +19,9 @@ Currently building:
 
 ## Featured Projects
 
-* WeeklyShop (iOS App)
-* Cybersecurity Portfolio
-* Data Analysis Projects
+* WeeklyShop – iOS family shopping app with weekly auto-reset
+* Cybersecurity Portfolio – SOC-style log analysis projects
+* Data Analysis Projects – SQL and Python-based analytics
 
 ## Career Goals
 
