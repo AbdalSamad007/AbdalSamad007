@@ -13,11 +13,9 @@ Currently building:
 ## Tech Stack
 
 * Python
-* Java
-* C++
 * SQL
 * Git & GitHub
-* Swift (currently learning)
+* Swift (learning)
 
 ## Featured Projects
 
