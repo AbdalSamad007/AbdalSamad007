@@ -1,4 +1,4 @@
-# Hi everyone, I’m Abd-Al-Samad 👋
+# Hi, I’m Abd-Al-Samad 👋
 
 A Junior Support Engineer at Con Ed with a strong interest in:
 
